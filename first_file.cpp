@@ -3,5 +3,6 @@
 int main()
 {
    cout<<"hello GitHub"<<endl;
-   cout<<"已经再次编辑了"<<endl;
+   cout<<"第一次编辑文件"<<endl;
+   return 0;
 }
